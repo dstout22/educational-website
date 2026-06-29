@@ -14,7 +14,7 @@ image: /csv.png
 
 ## About the project
 
-Welcome to the Syllabus To CSV tutorial! In this project, you will learn the fundamentals of JS and learn how to create a project from start to finish.
+Welcome to the Syllabus To CSV tutorial! In this project, you will learn the fundamentals of API calls and make your own chrome extension that takes a syllabus and converts it into a CSV file
 
 **What you will learn:**
 
